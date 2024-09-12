@@ -13,6 +13,7 @@
 using namespace std;
 
 typedef unsigned int TELEM;
+// Важный комментарий
 
 class TBitField
 {
